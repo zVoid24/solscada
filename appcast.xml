@@ -14,7 +14,7 @@
 
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.nz_bd.nz_scada"
-        sparkle:version="52"
+        sparkle:version="55"
         sparkle:shortVersionString="4.0.0"
         sparkle:os="android"/>
     </item>
@@ -27,7 +27,7 @@
 
       <enclosure
         url="https://apps.apple.com/ca/app/solscada/id6756875745"
-        sparkle:version="52"
+        sparkle:version="55"
         sparkle:shortVersionString="4.0.0"
         sparkle:os="ios"/>
     </item>
