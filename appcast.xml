@@ -19,12 +19,12 @@
 
 <!-- IOS -->
 <item>
-  <title>Version 5.0.0</title>
+  <title>Version 4.0.0</title>
   <description>Bug fixes and performance improvements</description>
   <pubDate>Sat, 25 Apr 2026 12:00:00 +0000</pubDate>
   <enclosure
     url="https://apps.apple.com/ca/app/solscada/id6756875745"
-    sparkle:version="5.0.0"
+    sparkle:version="4.0.0"
     sparkle:os="ios"/>
 </item>
 
